@@ -1,6 +1,5 @@
 # HW-EDA-II-dibimbing
-Home Work Python  Exploratory Data Analysis II dibimbing.id
-\n
+Home Work Python  Exploratory Data Analysis II dibimbing.id. 
 Pada project ini saya melakukan Exploratory Data Analysis menggunakan data Telco customer churn dengan standard technique dan deep dive exploration untuk mendapatkan insight dari data tersebut
 ## File Description
 Terdapat dua file pada pada repository ini (Tanpa mengitung Readme file)
